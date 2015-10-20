@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\bin\Debug\DemoTHi3.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\bin\Debug\DemoTHi3.exe
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\bin\Debug\DemoTHi3.pdb
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\bin\Debug\DemoTHi3.xml
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.exe
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.xml
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.pdb
+c:\users\asus\documents\visual studio 2012\Projects\DemoTHi3\DemoTHi3\obj\Debug\DemoTHi3.frmAddSanPham.resources
